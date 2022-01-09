@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Nysioko</h1>
 <h3 align="center">A passionate about CyberSecurity and AdminSys</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nysioko&label=Profile%20views&color=0e75b6&style=flat" alt="nysioko" /> </p>
@@ -6,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nysioko" target="blank"><img src="https://img.shields.io/twitter/follow/nysioko?logo=twitter&style=for-the-badge" alt="nysioko" /></a> </p>
 
-- 🔭 I’m currently working on **I am currently working on various projects, check my repositories on GitHub**
+- 🔭 I’m currently working on **various projects, check my repositories on GitHub**
 
 - 🌱 I’m currently learning **C, C++, Haskell, JavaScript, PHP, Rust, Reverse Engineering and more...**
 
-- 👨‍💻 All of my projects are available at [WIP website](WIP website)
+- 👨‍💻 All of my projects are available at [https://github.com/Nysioko?tab=repositories](https://github.com/Nysioko?tab=repositories)
+
+- 🎮 Add me on Discord **Nysioko#0137**
 
 - 📫 How to reach me **nysioko@gmail.com**
 
@@ -19,6 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nysioko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nysioko" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nysioko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nysioko" height="30" width="40" /></a>
+<a href="https://instagram.com/nysioko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nysioko" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc3ij2alqohguikr8mrhg7_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc3ij2alqohguikr8mrhg7_w" height="30" width="40" /></a>
+<a href="https://discord.gg/7mrXrTC3kD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7mrXrTC3kD" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
